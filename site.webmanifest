@@ -1,0 +1,14 @@
+{
+  "name": "Car Meet",
+  "short_name": "CarMeet",
+  "display": "standalone",
+  "background_color": "#12181b",
+  "theme_color": "#12181b",
+  "icons": [
+    {
+      "src": "media/cat.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ]
+}
